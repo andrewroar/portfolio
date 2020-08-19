@@ -94,7 +94,7 @@ nav ul li a {
 }
 
 .profile-pic {
-  width: 25%;
+  width: 30%;
 }
 
 /*//////////////////////*/
@@ -111,6 +111,9 @@ nav ul li a {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-around;
+  }
+  .profile-pic {
+    width: 75%;
   }
 
   .tool-list {
