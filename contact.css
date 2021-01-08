@@ -26,4 +26,8 @@
   flex-direction: row;
 
   width: 85%;
+
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
 }
