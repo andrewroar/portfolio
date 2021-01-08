@@ -90,7 +90,13 @@ nav ul li a {
 }
 
 .card-container {
-  padding: 2px 16px;
+  padding: 10px;
+}
+
+.card-flex-div {
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
 }
 
 .profile-pic {
