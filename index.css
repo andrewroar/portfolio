@@ -90,11 +90,16 @@ nav ul li a {
 }
 
 .card-container {
-  padding: 10px;
+  padding: 2px 16px;
 }
 
 .profile-pic {
   width: 30%;
+}
+
+/*project*/
+.project-div {
+  text-align: center;
 }
 
 /*//////////////////////*/
